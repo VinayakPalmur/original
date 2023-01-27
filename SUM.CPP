@@ -6,6 +6,7 @@ cin>>n;
 for(int i =0;i<=0;i++){
 sum+=i;
 }
+  
 cout<<sum;
 
 }
